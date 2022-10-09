@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f3f0d8b.css",
+    "main.js": "/static/js/main.d7f071d5.js",
+    "static/media/gericht.png": "/static/media/gericht.d800d24737ff0bb5de73.png",
+    "static/media/gpt3.png": "/static/media/gpt3.9bf6532fe9b6003ff584.png",
+    "static/media/huddle.png": "/static/media/huddle.083f04423be10fc36cc1.png",
+    "static/media/countryAPI.png": "/static/media/countryAPI.5c31f165be344cbf716d.png",
+    "index.html": "/index.html",
+    "static/media/MyCV.pdf": "/static/media/MyCV.f8c04c52c77bcb529ee4.pdf",
+    "main.5f3f0d8b.css.map": "/static/css/main.5f3f0d8b.css.map",
+    "main.d7f071d5.js.map": "/static/js/main.d7f071d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f3f0d8b.css",
+    "static/js/main.d7f071d5.js"
+  ]
+}
